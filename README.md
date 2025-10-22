@@ -5,10 +5,20 @@ I am a second-year PhD candidate in Information Retrieval (IR) at the University
 My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 
 ### 🔥 News
+* *Oct. 2025*: 🎉🎉 New preprint ChatR1.
+* *Sep. 2025*: 🎉🎉 Accepted paper at the 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025).
+* *Aug. 2025*: 🎉🎉 Organization of the TREC iKAT 2025 shared task.
 * *Apr. 2025*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-* *Oct. 2024*: 🎉🎉 TREC iKAT 2024 Best performing team.
 
 ## 📝 Publications
+[Preprint] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
+ArXiv Preprint \
+**_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
+
+[SIGIR-AP 2025] **Investigating LLM Variability in Personalized Conversational Information Retrieval** [[PDF]](https://arxiv.org/abs/2510.03795) [[code]](https://github.com/EricLangezaal/PersonalizedCIR) (_Full Paper_) \
+The 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific \
+**_Simon Lupart_**, Daniël van Dijk*, Eric Langezaal*, Ian van Dort*, Mohammad Aliannejadi
+
 [SIGIR 2025] **DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) [[code]](https://github.com/SimonLupart/disco-conv-splade) (_Full Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
