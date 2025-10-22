@@ -1,8 +1,8 @@
 # 👋 Welcome to Simon Lupart's GitHub!
 
-I am a second-year PhD candidate in Information Retrieval (IR) at the University of Amsterdam (IRLab), working with Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I worked previously for two years in NLP and IR at Naver Labs Europe, in the Search and Recommendation Team. I received my Master from Grenoble INP Ensimag after an Erasmus Exchange at the Imperial College London.
+I am a third-year PhD candidate in Information Retrieval (IR) at the University of Amsterdam (IRLab), working with Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I worked previously for two years in NLP and IR at Naver Labs Europe, in the Search and Recommendation Team. I received my Master from Grenoble INP Ensimag after an Erasmus Exchange at the Imperial College London.
 
-My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
+My research mainly focuses on IR and conversational AI, working on Large Language Models, Retrieval Augmented Generation (RAG), and Reinforcement Learning (RL) for Agentic AI.
 
 ### 🔥 News
 * *Oct. 2025*: 🎉🎉 New preprint ChatR1.
@@ -64,7 +64,8 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 **_Simon Lupart_**, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar
 
 ## 🔬 Industry Research Work
-* (18 months) *Nov. 2021 - Jun. 2023*, Naver Labs Europe
+* **Research Intern** at Naver Labs Europe. *Nov. 2025 - Feb. 2026* (4 months) 
+* **Research Scientist** at Naver Labs Europe. *Nov. 2021 - Jun. 2023* (18 months) 
 
 ## 🎓 Education
 * *October 2023 - Present*, Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
@@ -72,7 +73,7 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 * *Sept. 2018 – July 2021*, Master of Engineering, ENSIMAG (Computing/Math Eng. School), Grenoble, France   
 
 ## 📖 Academic Service
-- *Reviewer*: SIGIR 2025
+- *Reviewer*: SIGIR 2025, ECIR 2025.
 - *TREC Track Coordinators*: Part of the Organizers of TREC iKAT 2024 and TREC iKAT 2025 [[website]](https://www.trecikat.com/)
 - *Volunteer* during the 15th European Summer School on Information Retrieval (ESSIR'24). Organization of the Hackathon on the Conversational Search task [[github]](https://github.com/SimonLupart/essir24-convsearch/tree/main)
 
