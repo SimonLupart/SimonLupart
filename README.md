@@ -5,12 +5,17 @@ I am a third-year PhD candidate in Information Retrieval (IR) at the University 
 My research mainly focuses on IR and conversational AI, working on Large Language Models, Retrieval Augmented Generation (RAG), and Reinforcement Learning (RL) for Agentic AI.
 
 ### 🔥 News
+* *Mar. 2026*: 🎉🎉 Model release SPLADE-Code and preprint.
 * *Oct. 2025*: 🎉🎉 New preprint ChatR1.
 * *Sep. 2025*: 🎉🎉 Accepted paper at the 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025).
 * *Aug. 2025*: 🎉🎉 Organization of the TREC iKAT 2025 shared task.
 * *Apr. 2025*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 
 ## 📝 Publications
+[Preprint] **On the Challenges and Opportunities of Learned Sparse Retrieval for Code** [[PDF]](https://arxiv.org/abs/2603.22008) [[HuggingFace]](https://huggingface.co/collections/naver/splade-code) \
+ArXiv Preprint \
+**_Simon Lupart_**, Maxime Louis, Thibault Formal, Hervé Déjean, Stéphane Clinchant
+
 [Preprint] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
 ArXiv Preprint \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
@@ -65,7 +70,9 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 
 ## 🔬 Industry Research Work
 * **Research Intern** at Naver Labs Europe. *Nov. 2025 - Feb. 2026* (4 months) 
-* **Research Scientist** at Naver Labs Europe. *Nov. 2021 - Jun. 2023* (18 months) 
+* **Research Scientist** at Naver Labs Europe. *Nov. 2021 - Jun. 2023* (18 months)
+* **Research Intern** in NLP at Aix-Marseille University *May 2021 – Oct. 2021* (6 months)
+* **Engineering Intern** in Machine Learning at Safran Aircraft Engines *Jun. 2020 - Aug. 2020* (3 months)
 
 ## 🎓 Education
 * *October 2023 - Present*, Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
@@ -73,11 +80,11 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 * *Sept. 2018 – July 2021*, Master of Engineering, ENSIMAG (Computing/Math Eng. School), Grenoble, France   
 
 ## 📖 Academic Service
-- *Reviewer*: SIGIR 2025, ECIR 2025.
+- *Reviewer*: SIGIR 2026, ECIR 2026, SIGIR 2025, ECIR 2025.
 - *TREC Track Coordinators*: Part of the Organizers of TREC iKAT 2024 and TREC iKAT 2025 [[website]](https://www.trecikat.com/)
 - *Volunteer* during the 15th European Summer School on Information Retrieval (ESSIR'24). Organization of the Hackathon on the Conversational Search task [[github]](https://github.com/SimonLupart/essir24-convsearch/tree/main)
 
 ## 📫 Contact Me
 
 - **Email:** s.c.lupart@uva.nl  
-- [Google Scholar](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/simon_lupart/) | [Twitter](https://twitter.com/simon-lupart)
+- [Google Scholar](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/simon_lupart/) | [Twitter](https://x.com/simon_lupart)
