@@ -5,8 +5,8 @@ I am a third-year PhD candidate in Information Retrieval (IR) at the University 
 My research mainly focuses on IR and conversational AI, working on Large Language Models, Retrieval Augmented Generation (RAG), and Reinforcement Learning (RL) for Agentic AI.
 
 ### 🔥 News
+* *Apr. 2026*: 🎉🎉 [ACL 2026] Accepted main paper at the 64th Annual Meeting of the Association for Computational Linguistics.
 * *Mar. 2026*: 🎉🎉 Model release SPLADE-Code and preprint.
-* *Oct. 2025*: 🎉🎉 New preprint ChatR1.
 * *Sep. 2025*: 🎉🎉 Accepted paper at the 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025).
 * *Aug. 2025*: 🎉🎉 Organization of the TREC iKAT 2025 shared task.
 * *Apr. 2025*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
@@ -16,8 +16,8 @@ My research mainly focuses on IR and conversational AI, working on Large Languag
 ArXiv Preprint \
 **_Simon Lupart_**, Maxime Louis, Thibault Formal, Hervé Déjean, Stéphane Clinchant
 
-[Preprint] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
-ArXiv Preprint \
+[ACL Main 2026] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
+The 64th Annual Meeting of the Association for Computational Linguistics \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
 
 [SIGIR-AP 2025] **Investigating LLM Variability in Personalized Conversational Information Retrieval** [[PDF]](https://arxiv.org/abs/2510.03795) [[code]](https://github.com/EricLangezaal/PersonalizedCIR) (_Full Paper_) \
