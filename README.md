@@ -16,7 +16,7 @@ My research mainly focuses on IR and conversational AI, working on Large Languag
 ArXiv Preprint \
 **_Simon Lupart_**, Maxime Louis, Thibault Formal, Hervé Déjean, Stéphane Clinchant
 
-[ACL Main 2026] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
+[ACL Main 2026] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) [[HuggingFace]](https://huggingface.co/collections/slupart/chatr1) [[code]](https://github.com/SimonLupart/ChatR1) (_Full Paper_) \
 The 64th Annual Meeting of the Association for Computational Linguistics \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
 
